@@ -8,8 +8,8 @@ const chalk = require("chalk");
 const bot = new discord.Client()
 
 var NuclearNuke = {
-    token: "",
-    userID: "",
+    token: "MTMzNDkxMjIxMTgxNDA1NTk2Ng.G0nVHt.bj4yErVFWFQqbTn2ACEBpma-OsmBn8aoAal3q4",
+    userID: "1291995405113888858",
     configuration: {
         changeMembersNicknameTo: "Nuked using NuclearNuke",
         makeChannelsCalled: "Nuked using NuclearNuke",
