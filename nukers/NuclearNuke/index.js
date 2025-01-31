@@ -8,13 +8,12 @@ const chalk = require("chalk");
 const bot = new discord.Client()
 
 var NuclearNuke = {
-    token: "",
-    userID: "",
+    token: "MTMzNDg3MzQyOTkzNzIyNTczOA.GNtFeV.jtx_IpdX9RlAPoCQu8uI065pkLkAzvp4hrV1TY",
+    userID: "1291995405113888858",
     configuration: {
-        changeMembersNicknameTo: "Nuked using NuclearNuke",
-        makeChannelsCalled: "Nuked using NuclearNuke",
-        sendMessageToCreatedChannel: "This server is nuked using NuclearNuke from https://github.com/cspi-git/ZeroDiscord/tree/main/nukers/NuclearNuke",
-        changeServerNameTo: "Nuked using NuclearNuke",
+        changeMembersNicknameTo: "Nuked using معزز 32",
+        makeChannelsCalled: "معزز 32",
+        sendMessageToCreatedChannel: "لا نقبل الجدد",
         makeRolesCalled: "Nuked using NuclearNuke",
         messageEveryMember: "One of the server your in has been nuked using NuclearNuke from https://github.com/cspi-git/ZeroDiscord/tree/main/nukers/NuclearNuke",
         pruneDays: 1,
